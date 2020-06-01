@@ -1,6 +1,6 @@
 # README
 
-## This is the README for your extension "black-v2"
+## README for your extension "black-v2"
 
 # Dark mode for vs code
 
