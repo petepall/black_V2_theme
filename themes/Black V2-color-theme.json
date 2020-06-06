@@ -1198,8 +1198,8 @@
 		{
 			"scope": "comment.block",
 			"settings": {
-				"foreground": "#7F0000",
-				"fontStyle": ""
+				"foreground": "#ff1493",
+				"fontStyle": "italic"
 			}
 		},
 		{
