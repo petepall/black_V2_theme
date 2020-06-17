@@ -1,5 +1,13 @@
 # Change Log
 
+## [Version 1.0.4]
+
+- Correction to the font color as under certain circumstances the color reverted back to the darker font color.
+
+## [Version 1.0.3]
+
+- Changed the left menu font color to have more contrast against the black background.
+
 ## [Version 1.0.2]
 
 - Correction to changelog file.
