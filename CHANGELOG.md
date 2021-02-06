@@ -1,5 +1,9 @@
 # Change Log
 
+## [Version 1.0.6]
+
+- Removed the italics from the keyword.operator.logical settings
+- Reversed setting on operator.keyword
 ## [Version 1.0.5]
 
 - Removed the italics from the operator.keyword settings

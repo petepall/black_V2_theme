@@ -1072,7 +1072,7 @@
 			"scope": "keyword.operator.logical",
 			"settings": {
 				"foreground": "#FFAEAE",
-				"fontStyle": "bold"
+				"fontStyle": "italic bold"
 			}
 		},
 		{
@@ -1298,7 +1298,7 @@
 			],
 			"settings": {
 				"foreground": "#FFAEAE",
-				"fontStyle": "italic bold"
+				"fontStyle": "bold"
 			}
 		},
 		{
