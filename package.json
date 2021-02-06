@@ -2,7 +2,7 @@
     "name": "black-v2",
     "displayName": "Black V2",
     "description": "Updated Just black theme",
-    "version": "1.0.5s",
+    "version": "1.0.5",
     "publisher": "petepall",
     "engines": {
         "vscode": "^1.41.0"
