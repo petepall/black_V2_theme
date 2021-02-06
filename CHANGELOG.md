@@ -1,5 +1,8 @@
 # Change Log
 
+## [Version 1.0.5]
+
+- Removed the italics from the operator.keyword settings
 ## [Version 1.0.4]
 
 - Correction to the font color as under certain circumstances the color reverted back to the darker font color.
